@@ -7,4 +7,5 @@ class calculator:
 
 
 a = calculator()
-a.square(4)
+b = int(input("Enter a number :"))
+a.square(b)
