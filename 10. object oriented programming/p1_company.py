@@ -1,5 +1,5 @@
 class programmer:
-    company = "Microsoft"
+    company = "Microsoft and Apple"
 
     def __init__(self,name,job,age):
         self.name = name

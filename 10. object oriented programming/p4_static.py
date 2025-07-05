@@ -7,7 +7,7 @@ class calculator:
     
     @staticmethod
     def greet():
-        print("Hello user")
+        print("Hello user how are you")
 
 a = calculator()
 a.greet()
